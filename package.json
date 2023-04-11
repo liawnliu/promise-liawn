@@ -1,0 +1,26 @@
+{
+  "name": "promise-liawn",
+  "version": "1.0.0",
+  "description": "手写PromiseA+，通过promises-aplus-tests测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liawnliu/promise-liawn.git"
+  },
+  "keywords": [
+    "Promise",
+    "A+"
+  ],
+  "author": "Liawn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liawnliu/promise-liawn/issues"
+  },
+  "homepage": "https://github.com/liawnliu/promise-liawn#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
